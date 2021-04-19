@@ -4,3 +4,4 @@
 4. vegetais
 5. peixe
 7. água
+8. manteiga
